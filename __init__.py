@@ -1,1 +1,0 @@
-# ShieldCheck scanner package
